@@ -1,0 +1,5 @@
+Math.Sqrt(Math.Pow(sourceCity.CityCoordinates.XValue - destinationCity.CityCoordinates.XValue, 2) +  Math.Pow(sourceCity.CityCoordinates.YValue - destinationCity.CityCoordinates.YValue, 2)))
+
+
+
+7

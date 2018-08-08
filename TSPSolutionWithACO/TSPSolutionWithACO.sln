@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSPFrontEndUI", "TSPSolutionWithACO\TSPFrontEndUI.csproj", "{FF268EF2-894A-4AF9-A281-572E3E94549B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSPClassLib", "TSPClassLib\TSPClassLib.csproj", "{D9960804-D8C6-43D4-A4F6-6A472C3B0E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSPSolutionServices", "TSPSolver\TSPSolutionServices.csproj", "{703858F1-91F7-4F59-9354-82DA2B9DDDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF268EF2-894A-4AF9-A281-572E3E94549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF268EF2-894A-4AF9-A281-572E3E94549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF268EF2-894A-4AF9-A281-572E3E94549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF268EF2-894A-4AF9-A281-572E3E94549B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9960804-D8C6-43D4-A4F6-6A472C3B0E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9960804-D8C6-43D4-A4F6-6A472C3B0E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9960804-D8C6-43D4-A4F6-6A472C3B0E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9960804-D8C6-43D4-A4F6-6A472C3B0E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703858F1-91F7-4F59-9354-82DA2B9DDDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703858F1-91F7-4F59-9354-82DA2B9DDDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703858F1-91F7-4F59-9354-82DA2B9DDDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703858F1-91F7-4F59-9354-82DA2B9DDDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

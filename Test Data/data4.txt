@@ -1,0 +1,17 @@
+NAME : xqg237
+COMMENT : Bonn VLSI data set with 237 points
+COMMENT : Uni Bonn, Research Institute for Discrete Math
+COMMENT : Contributed by Andre Rohe
+TYPE : TSP
+DIMENSION : 237
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+1 12 5
+2 41 61
+3 87 23
+4 100 40
+5 100 60
+6 103 16
+7 120 7
+8 132 63
+EOF

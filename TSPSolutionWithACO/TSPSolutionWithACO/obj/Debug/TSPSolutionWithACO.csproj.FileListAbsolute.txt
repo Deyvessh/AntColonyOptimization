@@ -1,0 +1,10 @@
+D:\Projects\pproj\c#\plagiarism\TSPSolutionWithACO\TSPSolutionWithACO\bin\Debug\TSPSolutionWithACO.exe.config
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\bin\Debug\TSPSolutionWithACO.exe.config
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\bin\Debug\TSPSolutionWithACO.exe
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\bin\Debug\TSPSolutionWithACO.pdb
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\obj\Debug\TSPSolutionWithACO.csprojResolveAssemblyReference.cache
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\obj\Debug\TSPSolutionWithACO.Form1.resources
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\obj\Debug\TSPSolutionWithACO.Properties.Resources.resources
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\obj\Debug\TSPSolutionWithACO.csproj.GenerateResource.Cache
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\obj\Debug\TSPSolutionWithACO.exe
+D:\Projects\pproj\c#\ACO Algo\TSPSolutionWithACO\TSPSolutionWithACO\obj\Debug\TSPSolutionWithACO.pdb
